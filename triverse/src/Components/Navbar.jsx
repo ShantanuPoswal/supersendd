@@ -41,9 +41,9 @@ const Navbar = () => {
             className="hover:text-yellow-500 transition duration-300 cursor-pointer"
           >
           <SuprSendInbox
-              workspaceKey="UKV95uRP7xBBtkTeq4GT"
-              subscriberId="tCiV01CRJY4rSixFQ6ibkRvcWH4d9RiIU35pZq5WJlI"
-              distinctId="9999799854"
+              // workspaceKey="UKV95uRP7xBBtkTeq4GT"
+              // subscriberId="tCiV01CRJY4rSixFQ6ibkRvcWH4d9RiIU35pZq5WJlI"
+              // distinctId="9999799854"
               themeType="dark"
               theme={{ bell: { color: '#805BF2' } }}
             />
