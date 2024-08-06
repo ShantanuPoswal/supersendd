@@ -15,6 +15,7 @@
     "@mui/material": "^5.15.7",
     "@radix-ui/themes": "^2.0.3",
     "@react-google-maps/api": "^2.19.2",
+    "@suprsend/react-inbox": "^3.2.0",
     "@tsparticles/react": "^3.0.0",
     "@tsparticles/slim": "^3.2.1",
     "framer-motion": "^11.0.3",

@@ -40,7 +40,7 @@ const Navbar = () => {
             key="contact"
             className="hover:text-yellow-500 transition duration-300 cursor-pointer"
           >
-            <SuprSendInbox
+          <SuprSendInbox
               workspaceKey="vPYslRmmshV9H1gibuGt"
               subscriberId="<subscriber_id>"
               distinctId="<distinct_id>"
